@@ -45,3 +45,24 @@ input {
 input::-webkit-input-placeholder {
     color: #DADADA;
 }
+
+
+button {
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    width: 384px;
+    height: 48px;
+    margin: 18px 128px 46px 128px;
+    font-size: 20px;
+    text-decoration: none;
+    letter-spacing: 0.8px;
+
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
