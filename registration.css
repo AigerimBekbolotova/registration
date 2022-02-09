@@ -29,3 +29,19 @@ p {
     font-family: 'Sora', sans-serif;
     font-size: 14px;
 }
+
+input {
+    width: 590px;
+    height: 48px;
+    margin-left: 16px;
+    margin-right: 16px;
+    font-size: 14px;
+    font-family: 'Sora', sans-serif;
+    border-radius: 6px;
+    border: 1px solid #DADADA;
+    padding-left: 12px;
+}
+
+input::-webkit-input-placeholder {
+    color: #DADADA;
+}
